@@ -1,0 +1,12 @@
+# robots.txt for alitas-ai
+# Created: July 8, 2025
+
+User-agent: *
+Allow: /
+
+# Sitemap location (uncomment and update if you have a sitemap)
+# Sitemap: https://example.com/sitemap.xml
+
+# Disallow specific paths if needed
+# Disallow: /admin/
+# Disallow: /private/
